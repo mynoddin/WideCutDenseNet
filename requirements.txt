@@ -1,0 +1,5 @@
+numpy
+matplotlib
+scikit-learn
+tensorflow  # or torch, depending on your implementation
+jupyter
