@@ -32,7 +32,7 @@ research/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WideCutDenseNet.git
+   git clone https://github.com/mynoddin/WideCutDenseNet.git
    cd WideCutDenseNet
    ```
 
